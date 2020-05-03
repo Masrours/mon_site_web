@@ -1,3 +1,6 @@
 tmp/todo.txt
 .idea/*
+tmp/*
+*.xml
 *.txt
+
